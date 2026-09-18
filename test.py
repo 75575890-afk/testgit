@@ -1,2 +1,5 @@
-print ("Hello world")print("Eduardo Puma Ccorimanya") 
-print("Eduardo Puma Ccorimanya") 
+print ("Hello world")
+
+print ("EDUARDO PUMA CCORIMANYA")
+
+print ("BY EPC")
